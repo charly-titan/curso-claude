@@ -1,3 +1,1 @@
-# curso-claude
-
-Proyecto de ejemplo.
+# curso-claude\n\nProyecto de ejemplo para el curso de Claude Code.\n\n## Estructura\n\n- `src/validators/` — validadores de datos de entrada.\n
